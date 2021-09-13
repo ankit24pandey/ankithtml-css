@@ -1,0 +1,117 @@
+.section{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.section h2{
+  text-align: center;
+  margin-bottom: 30px;
+}
+#header{
+  color: white;
+  background-color: tomato;
+}
+#logo{
+  font-size: 2rem;
+}
+#menu{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+#menu li{
+  display: inline-block;
+}
+#menu li a{
+  color: white;
+  padding: 15px 10px;
+  display: block;
+}
+#menu li a:hover{
+  background-color: red;
+  text-decoration: none;
+}
+#banner{
+  background-image: url("https://cdn.decoist.com/wp-content/uploads/2013/04/Sleek-storage-in-a-home-office.jpg");
+  background-size: cover;
+  padding: 30px;
+}
+.banner-title{
+  padding-top: 5rem;
+}
+.banner-title h1{
+  background-color: grey;
+  display: inline-block;
+  padding: 10px;
+  margin-top: 0px;
+}
+.banner-title p{
+  background-color: pink;
+  padding: 12px;
+}
+.service-box{
+  text-align: center;
+}
+.service-box i.fas{
+  color: tomato;
+  font-size: 70px;
+  margin-bottom: 15px;
+}
+#testimonial{
+  background-image: url("https://www.iphoned.nl/wp-content/uploads/2021/04/iphone-13-pro-max-camera-gerucht-2-620x400.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.testimonial{
+  color: white;
+  margin-top: 20px;
+}
+.testimonial img{
+  border-radius: 50%;
+}
+#section-head{
+  color: white;
+  margin-bottom: 20px;
+}
+h3{
+  font-size: 1.3rem;
+}
+.newpost{
+  margin-top: 50px;
+}
+.newpost a{
+  color: tomato;
+}
+.other-section{
+  color: white;
+  text-align: center;
+}
+.other-section i.fas{
+  color: blanchedalmond;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.others{
+  background-color: #483d8b;
+}
+.others h3{
+  margin-bottom: 20px;
+}
+.footer{
+  background-color:	#6a5acd;
+  color: white;
+}
+#social-icons{
+  list-style: none;
+  float: right;
+}
+#social-icons li{
+  display: inline-block;
+  font-size: 30px;
+  padding: 7px;
+}
+#social-icons li.fab{
+  color: white;
+}
